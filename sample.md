@@ -1,6 +1,6 @@
-#Amal VIJAY
-##Mechatronics
-##S6 MR 
+# Amal VIJAY
+##M echatronics
+## S6 MR 
 
 
 kijklhkjgjhfkdjtdy
