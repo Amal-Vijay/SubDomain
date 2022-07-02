@@ -1,5 +1,5 @@
 # Amal VIJAY
-##M echatronics
+## Mechatronics
 ## S6 MR 
 
 
